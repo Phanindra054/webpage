@@ -1,0 +1,10 @@
+body{
+    background-image: url("topi.jpg");
+    background-size: cover;
+}
+h1{
+    color: brown;
+}
+h3{
+    color: crimson;
+}

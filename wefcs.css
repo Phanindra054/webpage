@@ -1,0 +1,115 @@
+body{
+    background-image: url("nature.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: azure;
+    position: relative;
+}
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin-left: 40px;
+    color: rgb(222, 13, 13);
+}
+
+li {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    float: left;
+    margin-left: 40px;
+}
+ul{
+    margin-left: 200px;
+    
+}
+li a{
+    color: aliceblue;
+}
+li a:hover{
+    color: red;
+}
+#searchbar{
+     border: solid 1px black;
+     width: 250px;
+     height: 30px;
+     margin-left: 100px;
+     border-radius: 6px;
+}
+#search{
+    height: 30px;
+    border: solid 1px black;
+    border-radius: 6px;
+}
+#q1{
+    color: burlywood;
+    font-size: 150%;
+}
+#q2{
+    color: darkgrey;
+    font-size: 150%;
+}
+#ju{
+    border: solid 1px black;
+    float: left;
+    height: 60px;
+    width: 80px;
+    border-radius: 8px; 
+    background-color: turquoise;
+}
+#ju:hover{
+    background-color: aqua;
+}
+#sign{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    border: 1px solid black;
+    float: right;
+    width: 350px;
+    height: 450px;
+    background-color: cadetblue;
+}
+#lo{
+    
+    text-align: center;
+    height:50px;
+    font-size: 180%;
+}
+#x1,#x2{
+    width:345px;
+    border: 1px solid black;
+    height:40px;
+    margin-bottom: 30px;
+}
+#p{
+    margin-left: 130px;
+    width: 80px;
+    height: 30px;
+    background: lightgreen;
+}
+#pa{
+    text-align: center;
+    font-size: 130%;
+}
+#pb{
+    border: 1px solid black;
+    text-align: center;
+    height:60px;
+    margin-left: 130px;
+}
+#pb:hover{
+    background-color: skyblue;
+    color: black;
+}
+#qw{
+    text-align: center;
+}
+#logo a{
+    margin-left: 30px;
+    font-size: 150%;
+}
+#para{
+    width: 600px;
+}

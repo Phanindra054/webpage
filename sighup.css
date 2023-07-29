@@ -1,0 +1,23 @@
+body{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+#box{
+    border: 5px solid white;
+    width: 400px;
+    font-size: 200%;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+#name,#mail,#pas,#dob{
+    font-size: 100%;
+}
+#btn{
+    margin-top: 20px;
+    font-size: 150%;
+    background-color: cyan;
+    color: black;
+}
+h1{
+    font-size: 300%;
+}

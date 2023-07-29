@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+#ab{
+    border: 2px solid black;
+    background-color: cadetblue;
+    margin-left:200px;
+    margin-right:200px;
+}
+#x{
+    margin-top: 30px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 250%;
+}
