@@ -4,6 +4,7 @@ body{
     background-attachment: fixed;
     color: azure;
     position: relative;
+    position: fixed;
 }
 h1{
     font-size: 50px;
@@ -63,8 +64,8 @@ li a:hover{
 }
 #sign{
     position: absolute;
-    top: 40%;
-    right: 5%;
+    top: 37%;
+    right: -65%;
     border: 1px solid black;
     float: right;
     width: 350px;
@@ -112,4 +113,8 @@ li a:hover{
 }
 #para{
     width: 600px;
+}
+#sb{
+    position: absolute;
+    right: -60%;
 }
